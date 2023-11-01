@@ -3,7 +3,7 @@ let numbers = [1, 5, 67, 14, 34, 21, 80, 7, 9, 28, 44, 23, 12, 10, 63, 102]
 
 /* let summa = numbers.reduce((a, b) => a + b, 0)
 document.write(summa) */
-
+//lalalalalali
 
 // let summa = (numbers.reduce((a, b) => a + b, 0)) / numbers.length
 
